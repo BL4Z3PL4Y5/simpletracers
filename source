@@ -25,7 +25,7 @@ _G.FromMouse = true
 _G.FromCenter = false   
 _G.FromBottom = false   
 
-_G.TracersVisible = false   
+_G.TracersVisible = true   
 _G.TracerColor = Color3.fromRGB(255, 225, 225)   
 _G.TracerThickness = 2.5   
 _G.TracerTransparency = 1
